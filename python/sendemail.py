@@ -5,7 +5,7 @@ from email.message import EmailMessage
 
 def sendemail(reciever,subject,link,msg,name):
     email_sender = 'svraj912@gmail.com'
-    email_password = 'xiytmrbgpbiieozg'
+    email_password = ''
     email_receiver = reciever
 
     s1='Form from : '
@@ -30,9 +30,7 @@ def sendemail(reciever,subject,link,msg,name):
         smtp.sendmail(email_sender, email_receiver, em.as_string())
 
 
-sender='svraj912@gmail.com'
-apppass='xiytmrbgpbiieozg'
-reciever = 'mnshah632004@gmail.com'
+
 # sendemail(reciever,'df','df','df')
 
 
