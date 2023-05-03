@@ -2,7 +2,7 @@
 
 THis is our project for Hackvgec.
 
-Hello Everyone, this is our project to siplify the sending of form to students , send reminder and take follow-up
+Hello Everyone, this is our project to simplify the sending of form to students , send reminder and take follow-up
 
 Technology used 
 
